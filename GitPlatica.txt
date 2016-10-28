@@ -29,4 +29,8 @@ $ git add .
 $ git commit -m "Mi priimer commit"
 
 
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/etgregor/demogit.git
+git push -u origin master
 --------------------------------------------------------------------------------
